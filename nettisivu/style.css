@@ -1,0 +1,20 @@
+
+body { border: 1cap; margin: auto; max-width: 700px; background-color: rgb(251, 226, 230); }
+img { 
+    margin: auto;
+    display: block;
+    width: 600px; max-width: 100%; }
+h1 { background-color: rgba(184, 123, 240, 0.659); text-align: center; color:blueviolet; }
+h2 { text-align: center;  color:green; }
+    div { background-color:rgba(248, 222, 248, 0.661); }
+h3 { text-align: center;  color:red; }
+h4 { text-align: center; color:blue; }
+    div.lempparit { text-align: center; }
+    ol.lempparit {
+        display: inline-block;
+        text-align: left; }
+p { text-align: center;}
+        div.koti { text-align: center; }
+        ul.koti {
+            display: inline-block;
+            text-align: center; }
